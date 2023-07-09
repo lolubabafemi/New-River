@@ -18,3 +18,7 @@ header {
 p {
     font-size: 20px;
 }
+
+body {
+    color: aqua;
+}
