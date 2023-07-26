@@ -34,7 +34,7 @@ p {
 #primary-content {
     background-color: green;
     border: 2px solid red;
-    border-width: 20px;
+    border-radius: 10px;
     padding: 50,50,50,50;
 
 }
