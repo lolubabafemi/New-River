@@ -34,6 +34,6 @@ p {
     background-color: green;
     border: 2px solid red;
     border-radius: 10px;
-    padding: 50,50,50,50;
+    margin: 50,50,50,50;
 
 }
