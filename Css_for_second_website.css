@@ -32,6 +32,7 @@ p {
 }
 
 #primary-content {
+    background-color: green;
     border: 2px solid red;
     margin: 20, 0, 20, 0;
 
