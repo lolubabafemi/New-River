@@ -34,6 +34,12 @@ p {
     background-color: green;
     border: 2px solid red;
     border-radius: 10px;
-    margin: 50,50,50,50;
+    margin: 50px,50px,50px,50px;
 
+}
+
+#main-footer {
+    padding-top: 60px;
+    padding-bottom: 60px;
+    border-bottom: solid 10px orange;
 }
