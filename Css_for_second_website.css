@@ -30,7 +30,7 @@ p {
     font-size: 20px;
 }
 
-#primary-content {
+.primary-content {
     background-color: green;
     border: 2px solid red;
     border-radius: 10px;
