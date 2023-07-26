@@ -21,7 +21,7 @@ h2 {
     text-shadow: 0 1px 0 rgba(0,0,0,.3);
 }
 
-header span {
+.intro {
     font-size: 30;
     font-weight: bold;
     color: green;
