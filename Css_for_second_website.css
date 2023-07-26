@@ -34,6 +34,7 @@ p {
 #primary-content {
     background-color: green;
     border: 2px solid red;
+    border-width: 20px;
     margin: 20, 0, 20, 0;
 
 }
