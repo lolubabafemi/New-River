@@ -26,7 +26,7 @@ h2 {
     text-shadow: 0 1px 0 rgba(0,0,0,.3);
 }
 
-.intro {
+/* .intro {
     font-size: 30;
     font-weight: bold;
     color: green;
@@ -37,7 +37,7 @@ h2 {
     margin-top: 1000px;
     margin-left: 100px;
     margin-right: 100px;
-}
+} */
 p {
     font-size: 20px;
 }
