@@ -46,11 +46,11 @@ p {
     border-radius: 20px;
     width: 40%;
     margin-left: 5%;
-    /* padding-top: 30px;
+    padding-top: 30px;
     padding-bottom: 30px;
     padding-left: 50px;
     padding-right: 50px;
-    margin-left: 50px;
+    /* margin-left: 50px;
     margin-right: 700px;
     margin-top: 30px;
     margin-bottom: 30px; */
@@ -61,6 +61,11 @@ p {
     border-radius: 20px;
     width: 40%;
     margin-right: 5%;
+    margin-left: 55%;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 50px;
+    padding-right: 50px;
 }
 #main-footer {
     padding-top: 60px;
