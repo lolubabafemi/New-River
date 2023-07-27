@@ -74,4 +74,9 @@ a:hover {
 
 a:active {
     color: chartreuse;
-} 
+}
+
+a:focus {
+    color: white;
+    background-color: orange;
+}
