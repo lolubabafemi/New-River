@@ -43,9 +43,9 @@ p {
 }
 
 .primary-content {
-    background-color: green;
+    /* background-color: green; */
     border-radius: 20px;
-    width: 40%;
+    width: 35%;
     margin-left: 5%;
     padding-top: 30px;
     padding-bottom: 30px;
@@ -58,11 +58,11 @@ p {
 }
 
 .secondary-content {
-    background-color: purple;
+    /* background-color: purple; */
     border-radius: 20px;
-    width: 40%;
-    /* margin-right: 5%; */
-    margin-left: 55%;
+    width: 35%;
+    margin-right: 5%;
+    margin-left: 40%;
     padding-top: 30px;
     padding-bottom: 30px;
     padding-left: 50px;
