@@ -55,3 +55,7 @@ p {
     padding-bottom: 60px;
     border-bottom: solid 10px orange;
 }
+
+a:link {
+    color: blue;
+}
