@@ -2,6 +2,7 @@
 
 body {
     text-align: center;
+    font-family: sans-serif;
 }
 
 header {
@@ -75,12 +76,12 @@ p {
 }
 
 a:link {
-    color: red;
+    color: orange;
     text-decoration: none;
 }
 
 a:visited {
-    color: black;
+    color: red;
 }
 
 a:hover {
