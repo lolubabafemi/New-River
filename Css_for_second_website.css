@@ -60,10 +60,7 @@ h2 {
     width: 35%;
     margin-right: 5%;
     margin-left: 50%;
-    padding-top: 30px;
-    padding-bottom: 30px;
-    padding-left: 50px;
-    padding-right: 50px;
+    padding: 30px 50px;
 }
 #main-footer {
     padding-top: 60px;
