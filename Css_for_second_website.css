@@ -45,17 +45,9 @@ p {
     margin-right: 100px;
 } */
 
-/* .primary-content {
-    background-color: green;
-    border-radius: 20px;
-    width: 35%;
-    margin-left: 5%;
-    padding: 30px 50px 30px 50px;
-    margin-left: 50px;
-    margin-right: 700px;
-    margin-top: 30px;
-    margin-bottom: 30px;
-} */
+.primary-content {
+    width: 75%;
+}
 
 /* .secondary-content {
     background-color: purple;
