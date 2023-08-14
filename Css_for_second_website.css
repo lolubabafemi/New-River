@@ -59,7 +59,9 @@ p {
 li {
     display: inline-block;
     width: 20%;
-    padding: 0 12px;
+    padding: 0 15px;
+    margin-top: 30px;
+    border-right: solid 1px;
 }
 
 #main-footer {
