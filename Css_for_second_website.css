@@ -72,8 +72,8 @@ li {
 }
 
 #border {
-    border-right: solid 1px ;
-    border-left: solid 1px;
+    border-right: solid 0.5px rgb(241, 236, 236) ;
+    border-left: solid 0.5px rgb(241, 236, 236);
 }
 #main-footer {
     padding-top: 60px;
