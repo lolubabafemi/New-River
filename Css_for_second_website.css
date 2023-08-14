@@ -57,8 +57,8 @@ p {
 }
 
 .display {
-    display: inline-block;
-    width: 70%;
+    display: block;
+    width: 20%;
 }
 
 #main-footer {
