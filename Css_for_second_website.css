@@ -57,7 +57,7 @@ p {
 }
 
 .display {
-    display: block;
+    display: inline-block;
     width: 20%;
 }
 
