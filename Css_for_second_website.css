@@ -56,6 +56,10 @@ p {
     margin: auto;
 }
 
+.display {
+    display: inline-block;
+}
+
 #main-footer {
     padding-top: 60px;
     padding-bottom: 60px;
