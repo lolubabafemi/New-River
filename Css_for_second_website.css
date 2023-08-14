@@ -52,9 +52,10 @@ p {
 
 .primary-content,
 .secondary-content {
-    width: 75%;
+    width: 20%;
     margin: auto;
     background-color: aqua;
+    display: block;
 }
 
 .display {
