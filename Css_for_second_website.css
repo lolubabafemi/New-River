@@ -56,7 +56,7 @@ p {
     margin: auto;
 }
 
-.display {
+ul {
     display: inline;
     width: 20%;
     background-color: green;
