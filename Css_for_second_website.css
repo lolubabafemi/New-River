@@ -56,12 +56,8 @@ p {
     margin: auto;
 }
 
-ul {
-    display: inline;
-}
-
 li {
-    display: block;
+    display: inline-block;
     width: 20%;
     background: green;
 }
