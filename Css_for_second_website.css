@@ -58,7 +58,8 @@ p {
 
 ul {
     border-top: solid 1px;
-    border-top-width: 75%;
+    width: 75%;
+    margin: auto;
 }
 
 li {
