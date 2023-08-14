@@ -56,6 +56,10 @@ p {
     margin: auto;
 }
 
+ul {
+    display: inline;
+}
+
 li {
     display: block;
     width: 20%;
