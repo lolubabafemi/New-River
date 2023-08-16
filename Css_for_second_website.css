@@ -69,7 +69,7 @@ p {
     margin: 2.5%;
 }
 
-ul {
+#bottom-class {
     border-top: solid 0.5px rgb(241, 236, 236);
     width: 75%;
     margin: auto;
