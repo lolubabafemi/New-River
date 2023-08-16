@@ -67,8 +67,7 @@ p {
 
 #image li {
     float: left;
-    size: 10%;
-    margin: 2.5%;
+    width:20%;
 }
 
 #bottom-class {
