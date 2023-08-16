@@ -57,10 +57,15 @@ p {
 }
 
 
-.image {
+#image {
     width: 75%;
     margin: auto;
     display: inline-block;
+}
+
+#image li {
+    float: left;
+    width: 20%;
 }
 
 ul {
