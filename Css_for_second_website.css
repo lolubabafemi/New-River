@@ -71,6 +71,9 @@ p {
     margin: auto;
 }
 
+.test {
+    margin: auto;
+}
 #bottom-class {
     border-top: solid 0.5px rgb(241, 236, 236);
     width: 75%;
