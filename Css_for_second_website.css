@@ -65,7 +65,7 @@ p {
     padding-bottom: 30px;
 }
 
-#align {
+#align li {
     display: inline-block;
     border: solid 20px green;
 }
