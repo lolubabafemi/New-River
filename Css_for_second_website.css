@@ -188,20 +188,41 @@ img {
 
 
 
-#bottom-class {
+#bottomclass1 {
     border-top: solid 0.5px rgb(241, 236, 236);
-    width: 75%;
+    width: 85%;
     margin: auto;
     margin-bottom: 30px;
 }
 
-li {
+
+
+
+
+/* bottomclass1 */
+#bottomclass1 li {
     display: inline-block;
-    width: 25%;
-    padding: 15px 15px;
-    margin-top: 30px;
-    text-align: center;
+    width: 45%;
+    margin-top: auto;
 }
+
+
+#bottomclass1 li h3 {
+    text-align: left;
+    font-size: 2em;
+}
+
+#bottomclass1 li p {
+    text-align: left;
+    font-size: 1.65em;
+}
+
+
+
+
+
+
+
 
 #border {
     border-right: solid 0.5px rgb(241, 236, 236) ;
