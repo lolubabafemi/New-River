@@ -50,6 +50,11 @@ p {
     margin-right: 100px;
 } */
 
+#welcome {
+    width: 75%;
+    margin: auto;
+}
+
 .primary-content,
 .secondary-content {
     width: 75%;
@@ -73,7 +78,6 @@ img {
     /* width: 200px;
     height: 200px; */
     display: inline-block;
-    border: solid 20px green;
 }
 #child {
     border: solid 20px green;
