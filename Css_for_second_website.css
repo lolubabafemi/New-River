@@ -65,6 +65,10 @@ p {
     padding-bottom: 30px;
 }
 
+img {
+    max-width: 100%;
+}
+
 #align li {
     width: 200px;
     height: 200px;
