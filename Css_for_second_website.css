@@ -50,7 +50,7 @@ p {
     margin-right: 100px;
 } */
 
-#welcome {
+.welcome {
     width: 75%;
     margin: auto;
 }
@@ -78,7 +78,7 @@ img {
     /* width: 200px;
     height: 200px; */
     display: inline-block;
-    width: 45%
+    width: 30%
 }
 
 #bottom-class {
