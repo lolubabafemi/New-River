@@ -31,13 +31,13 @@ h2 {
 }
 
 h3 {
-    color: aqua;
+    color: #ff6f69;
     font-size: 1.25em;
     margin-bottom: 0.2em;
 }
 p {
     text-align: center;
-    color: whitesmoke;
+    color: #88d8b0;
 }
 /* .intro {
     font-size: 30;
