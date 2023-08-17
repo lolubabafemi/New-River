@@ -198,7 +198,7 @@ img {
 #bottomclass1 li {
     display: inline-block;
     width: 45%;
-    margin-top: auto;
+    margin: auto;
 }
 
 
