@@ -5,11 +5,11 @@ body {
     font-family: Arial, Helvetica, sans-serif;
     line-height: 1.5;
     font-size: 1em;
-    background-color: blue;
+    background-color: #ffeead;
 }
 
 header {
-    background: green;
+    background: #96ceb4;
     width: 100%;
 }
 
