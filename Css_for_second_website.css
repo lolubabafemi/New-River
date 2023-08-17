@@ -92,6 +92,28 @@ img {
 
 
 
+/* content 4 */
+.content4 {
+    border-top: solid 1px rgb(241, 236, 236);
+    border-bottom: solid 1px rgb(241, 236, 236);
+}
+
+.content4 h3 {
+    font-size: 2em;
+}
+
+.content4 p {
+    font-size: 1.65em;
+}
+
+#image4 li {
+    display: inline-block;
+    width: 47%;
+    margin: auto;
+}
+
+
+
 /* content 5 */
 .content5 {
     border-top: solid 1px rgb(241, 236, 236);
