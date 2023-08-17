@@ -188,13 +188,11 @@ img {
     margin-top: 5%;
 }
 
-
 #bottomclass1 li {
     display: inline-block;
     width: 45%;
     margin: auto;
 }
-
 
 #bottomclass1 li h3 {
     text-align: left;
@@ -208,6 +206,33 @@ img {
     padding-top: 2%;;
 }
 
+
+
+/* bottomclass2 */
+#bottomclass2 {
+    width: 85%;
+    margin: auto;
+    margin-bottom: 30px;
+    margin-top: 5%;
+}
+
+#bottomclass2 li {
+    display: inline-block;
+    width: 45%;
+    margin: auto;
+}
+
+#bottomclass2 li h3 {
+    text-align: left;
+    font-size: 2em;
+    padding-top: -5%;
+}
+
+#bottomclass2 li p {
+    text-align: left;
+    font-size: 1.65em;
+    padding-top: 2%;;
+}
 
 
 
