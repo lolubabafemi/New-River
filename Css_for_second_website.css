@@ -82,10 +82,6 @@ img {
 #child {
     border: solid 20px green;
 }
-
-#test {
-    border: solid 20px green;
-}
 #bottom-class {
     border-top: solid 0.5px rgb(241, 236, 236);
     width: 75%;
