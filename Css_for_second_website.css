@@ -67,6 +67,7 @@ p {
 
 #align {
     display: inline-block;
+    border: solid 20px green;
 }
 #child {
     border: solid 20px green;
