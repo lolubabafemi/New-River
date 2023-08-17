@@ -65,8 +65,7 @@ p {
 }
 
 #image li {
-    /* display: inline-block; */
-    width: 25%;
+    display: inline-block;
     margin: auto;
 }
 
