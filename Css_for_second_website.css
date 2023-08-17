@@ -187,19 +187,14 @@ img {
 
 
 
-
+/* bottomclass1 */
 #bottomclass1 {
-    border-top: solid 0.5px rgb(241, 236, 236);
     width: 85%;
     margin: auto;
     margin-bottom: 30px;
 }
 
 
-
-
-
-/* bottomclass1 */
 #bottomclass1 li {
     display: inline-block;
     width: 45%;
@@ -215,6 +210,7 @@ img {
 #bottomclass1 li p {
     text-align: left;
     font-size: 1.65em;
+    padding-top: 2%;;
 }
 
 
