@@ -55,8 +55,11 @@ p {
     margin: auto;
 }
 
-.primary-content,
-.secondary-content {
+.content1,
+.content2,
+.content3,
+.content4,
+.content5 {
     width: 75%;
     margin: auto;
 }
