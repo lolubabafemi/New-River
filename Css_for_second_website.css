@@ -50,6 +50,9 @@ p {
     margin-right: 100px;
 } */
 
+.content1 p {
+    font: 1.25em;
+}
 .welcome {
     width: 75%;
     margin: auto;
