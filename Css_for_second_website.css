@@ -238,6 +238,34 @@ img {
 
 
 
+/* bottomclass3 */
+#bottomclass3 {
+    width: 85%;
+    margin: auto;
+    margin-bottom: 30px;
+    margin-top: 5%;
+}
+
+#bottomclass3 li {
+    display: inline-block;
+    width: 45%;
+    margin: auto;
+}
+
+#bottomclass3 li h3 {
+    text-align: left;
+    font-size: 2em;
+    padding-top: -5%;
+}
+
+#bottomclass3 li p {
+    text-align: left;
+    font-size: 1.65em;
+    padding-top: 2%;;
+}
+
+
+
 
 
 #border {
