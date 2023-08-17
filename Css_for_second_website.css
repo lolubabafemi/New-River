@@ -62,11 +62,14 @@ p {
     border-bottom: solid 0.5px rgb(241, 236, 236);
     width: 75%;
     margin: 0%;
-    display: inline-block;
 }
 
 #image li {
     width:5%;
+    display: inline-block;
+    width: 25%;
+    padding: 15px 15px;
+    margin-top: 30px;
 }
 
 #bottom-class {
