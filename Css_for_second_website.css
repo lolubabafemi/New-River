@@ -220,7 +220,7 @@ img {
     display: inline-block;
     width: 45%;
     margin: auto;
-    align-items: center;
+    align-content: center;
 }
 
 #bottomclass2 li h3 {
