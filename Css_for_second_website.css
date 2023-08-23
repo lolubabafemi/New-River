@@ -220,6 +220,7 @@ img {
     display: inline-block;
     width: 45%;
     margin: auto;
+    justify-content: center;
 }
 
 #bottomclass2 li h3 {
@@ -244,7 +245,6 @@ img {
     margin: auto;
     margin-bottom: 30px;
     margin-top: 5%;
-    justify-content: baseline;
 }
 
 #bottomclass3 li {
