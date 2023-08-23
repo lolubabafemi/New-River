@@ -192,6 +192,7 @@ img {
     display: inline-block;
     width: 45%;
     margin: auto;
+    align-items: center;
 }
 
 #bottomclass1 li h3 {
