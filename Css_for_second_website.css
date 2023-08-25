@@ -9,14 +9,14 @@ body {
 }
 
 header {
-    padding-top: 20%;
+    padding-top: 5%;
     background: #96ceb4;
     width: 100%;
     background-image: url("images/33.jpg");
 }
 
 .intro {
-    font-size: 30;
+    font-size: 1.63em;
     font-weight: bold;
     color: green;
     background-color: white;
