@@ -14,6 +14,14 @@ header {
     background-image: url("images/33.jpg");
 }
 
+.intro {
+    font-size: 30;
+    font-weight: bold;
+    color: green;
+    background-color: white;
+    margin-top: 100px;
+}
+
 h1 {
     font-size: 6em;
     font-weight: bold;
@@ -40,18 +48,7 @@ p {
     text-align: center;
     color: #4643c9;
 }
-/* .intro {
-    font-size: 30;
-    font-weight: bold;
-    color: green;
-    background-color: white;
-    border-radius: 5px;
-    padding-top: 30px;
-    padding-bottom: 5px;
-    margin-top: 1000px;
-    margin-left: 100px;
-    margin-right: 100px;
-} */
+
 
 .content1 p {
     font-size: 1.25em;
