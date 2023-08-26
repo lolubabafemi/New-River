@@ -108,12 +108,17 @@ img {
     font-size: 1em;
 }
 
-#image2 li {
+.tropicalimage1,
+.tropicalimage2 {
+    width: 45%;
+}
+
+/* #image2 li {
     display: inline-block;
     width: 47%;
     margin: auto;
     border-radius: 40px;
-}
+} */
 
 
 
