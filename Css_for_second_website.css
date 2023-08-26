@@ -99,7 +99,7 @@ img {
 .content2 {
     border-bottom: solid 1px rgb(241, 236, 236);
     overflow: auto;
-    padding-bottom: auto;
+    padding-bottom: 3%;
 }
 
 .content2 h3 {
