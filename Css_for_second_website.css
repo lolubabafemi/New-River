@@ -115,10 +115,12 @@ img {
 
 .tropicalimage1 {
     float: right;
+    margin-right: 3%;
 }
 
 .tropicalimage2 {
     float: left;
+    margin-left: 3%;
 }
 /* #image2 li {
     display: inline-block;
