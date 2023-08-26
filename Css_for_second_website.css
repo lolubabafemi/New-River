@@ -113,6 +113,13 @@ img {
     width: 45%;
 }
 
+.tropicalimage1 {
+    float: right;
+}
+
+.tropicalimage2 {
+    float: left;
+}
 /* #image2 li {
     display: inline-block;
     width: 47%;
