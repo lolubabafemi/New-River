@@ -98,6 +98,7 @@ img {
 /* content 2 */
 .content2 {
     border-bottom: solid 1px rgb(241, 236, 236);
+    overflow: auto;
 }
 
 .content2 h3 {
@@ -123,11 +124,11 @@ img {
     margin-left: 3%;
 }
 
-.group {
+/* .group {
     content: "";
     display: table;
     clear: both;
-}
+} */
 /* #image2 li {
     display: inline-block;
     width: 47%;
