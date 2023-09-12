@@ -202,6 +202,9 @@ img {
     margin: auto;
 }
 
+.content6 p {
+    text-align: left;
+}
 .event,
 .wedding {
     max-width: 45%;
