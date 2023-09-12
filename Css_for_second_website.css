@@ -203,9 +203,12 @@ img {
     margin: auto;
 }
 
+
+.content6 {
+    overflow: auto;
+}
 .content6 p {
     text-align: left;
-    overflow: auto;
 }
 .event,
 .wedding {
