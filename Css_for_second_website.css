@@ -204,6 +204,7 @@ img {
 
 .content6 p {
     text-align: left;
+    overflow: auto;
 }
 .event,
 .wedding {
