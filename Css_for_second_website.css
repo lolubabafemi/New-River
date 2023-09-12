@@ -67,7 +67,8 @@ p {
 .content2,
 .content3,
 .content4,
-.content5 {
+.content5,
+.content6 {
     width: 75%;
     margin: auto;
 }
