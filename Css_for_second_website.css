@@ -204,11 +204,10 @@ img {
 .event,
 .wedding {
     max-width: 45%;
-}
-
-.event h3 {
     text-align: left;
 }
+
+
 /* bottomclass1
 #bottomclass1 {
     width: 85%;
