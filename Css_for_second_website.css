@@ -71,6 +71,7 @@ p {
 .content6 {
     width: 75%;
     margin: auto;
+    border-bottom: solid 1px rgb(241, 236, 236);
 }
 
 
