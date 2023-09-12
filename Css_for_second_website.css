@@ -211,7 +211,13 @@ img {
     text-align: left;
 }
 
+.event {
+    float: left;
+}
 
+.wedding {
+    float: right;
+}
 /* bottomclass1
 #bottomclass1 {
     width: 85%;
