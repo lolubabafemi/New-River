@@ -124,12 +124,17 @@ p {
     width: 46.5%;
 }
 
-.adventure img,
-.cuisine img {
+.adventure img .cuisine img {
     width: 100%;
     box-shadow: 0 2px 20px -12px #222;
     border-bottom:  solid 5px rgb(95, 93, 209);
     border-radius: 50px 10px 50px 10px;
+}
+.cuisine img {
+    width: 100%;
+    box-shadow: 0 2px 20px -12px #222;
+    border-bottom:  solid 5px rgb(95, 93, 209);
+    border-radius: 10px 50px 10px 50px;
 }
 .adventure h3,
 .cuisine h3 {
@@ -205,12 +210,17 @@ p {
     width: 46.5%;
 }
 
-.event img,
-.wedding img {
+.event img {
     width: 100%;
     box-shadow: 0 2px 20px -12px #222;
     border-bottom:  solid 5px rgb(95, 93, 209);
     border-radius: 50px 10px 50px 10px;
+}
+.wedding img {
+    width: 100%;
+    box-shadow: 0 2px 20px -12px #222;
+    border-bottom:  solid 5px rgb(95, 93, 209);
+    border-radius: 10px 50px 10px 50px;
 }
 .event h3,
 .wedding h3 {
