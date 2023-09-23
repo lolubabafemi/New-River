@@ -321,9 +321,9 @@ img {
 #main-footer {
     padding-top: 60px;
     padding-bottom: 60px;
-    border-top: solid 10px greenyellow;
-    border-bottom: solid 10px orange;
-    background-color: green;
+    border-top: solid 10px #1e1d61;
+    border-bottom: solid 10px #1e1d61;
+    background-color:#4643c9;
 }
 
 a:link {
