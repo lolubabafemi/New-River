@@ -9,7 +9,7 @@ body {
 }
 
 header {
-    padding: 5%;
+    padding: auto;
     background: #96ceb4;
     width: 100%;
     height: 850px;
