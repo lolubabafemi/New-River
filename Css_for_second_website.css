@@ -34,7 +34,7 @@ h1 {
 }
 
 h1:hover {
-    color: rgb(197, 194, 194);
+    color: rgb(18, 56, 138);
 }
 
 .discover {
@@ -45,13 +45,13 @@ h1:hover {
 }
 
 h3 {
-    color: #ff6f69;
+    color: #292727;
     font-size: 1.25em;
     margin-bottom: 0.2em;
 }
 p {
     text-align: center;
-    color: #4643c9;
+    color: #292727;
 }
 
 .content1 {
@@ -131,7 +131,7 @@ p {
 
 
 .content4,
-.content6 {
+.eventandwedding {
     width: 75%;
     margin: auto;
     border-bottom: solid 1px rgb(241, 236, 236);
@@ -212,11 +212,11 @@ img {
 
 
 
-.content6 {
+.eventandwedding {
     padding: 5%;
     overflow: auto;
 }
-.content6 p {
+.eventandwedding p {
     text-align: left;
 }
 .event,
@@ -232,61 +232,7 @@ img {
 .wedding {
     float: right;
 }
-/* bottomclass1
-#bottomclass1 {
-    width: 85%;
-    margin: auto;
-    margin-bottom: 30px;
-    margin-top: 5%;
-}
 
-#bottomclass1 li {
-    display: inline-block;
-    width: 45%;
-    margin: auto;
-    align-items: flex-start;
-}
-
-#bottomclass1 li h3 {
-    text-align: left;
-    font-size: 1.65em;
-    padding-top: -5%;
-}
-
-#bottomclass1 li p {
-    text-align: left;
-    font-size: 1em;
-    padding-top: 2%;;
-}
-
-
-
-/* bottomclass2 */
-#bottomclass2 {
-    width: 85%;
-    margin: auto;
-    margin-bottom: 30px;
-    margin-top: 5%;
-}
-
-#bottomclass2 li {
-    display: inline-block;
-    width: 45%;
-    margin: auto;
-    align-content: center;
-}
-
-#bottomclass2 li h3 {
-    text-align: left;
-    font-size: 1.65em;
-    padding-top: -5%;
-}
-
-#bottomclass2 li p {
-    text-align: left;
-    font-size: 1em;
-    padding-top: 2%;;
-}
 
 
 
