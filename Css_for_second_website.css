@@ -80,6 +80,10 @@ p {
     text-align: left;
 }
 
+.content3 ul {
+    text-align: left;
+}
+
 .welcome {
     width: 75%;
     margin: auto;
