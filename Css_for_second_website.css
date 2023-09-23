@@ -132,7 +132,7 @@ p {
 
 .content2,
 .content4,
-.content5,
+.unwind,
 .content6 {
     width: 75%;
     margin: auto;
@@ -210,16 +210,17 @@ img {
 
 
 
-/* content 5 */
-.content5 {
+/************ Unwind **********************/
+.unwind {
+    width: 50%;
     border-bottom: solid 1px rgb(241, 236, 236);
 }
 
-.content5 h3 {
+.unwind h3 {
     font-size: 1.65em;
 }
 
-.content5 p {
+.unwind p {
     font-size: 1em;
 }
 
@@ -228,6 +229,13 @@ img {
     width: 47%;
     margin: auto;
 }
+
+/***************************************************/
+
+
+
+
+
 
 
 .content6 {
