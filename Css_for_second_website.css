@@ -66,10 +66,17 @@ p {
     width: 100%;
 }
 
+
+
+
+
+/***********content 3***********/
 .content3 {
     width: 46.5%;
+    border-bottom: solid 1px rgb(241, 236, 236);
 }
 .content3 p {
+    font-size: 1em;
     text-align: left;
 }
 
@@ -77,6 +84,10 @@ p {
     width: 75%;
     margin: auto;
 }
+
+
+
+
 
 
 .content2,
@@ -151,27 +162,6 @@ img {
     margin: auto;
     border-radius: 40px;
 } */
-
-
-
-/* content 3 */
-.content3 {
-    border-bottom: solid 1px rgb(241, 236, 236);
-}
-
-.content3 h3 {
-    font-size: 1.65em;
-}
-
-.content3 p {
-    font-size: 1em;
-}
-
-#image3 li {
-    display: inline-block;
-    width: 47%;
-    margin: auto;
-}
 
 
 
