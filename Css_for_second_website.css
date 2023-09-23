@@ -224,10 +224,8 @@ img {
     font-size: 1em;
 }
 
-#image5 li {
-    display: inline-block;
-    width: 47%;
-    margin: auto;
+.unwind img {
+    width: 100%;
 }
 
 /***************************************************/
