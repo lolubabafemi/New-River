@@ -270,32 +270,6 @@ img {
 
 
 
-
-
-.eventandwedding {
-    padding: 5%;
-    overflow: auto;
-}
-.eventandwedding p {
-    text-align: left;
-}
-.event,
-.wedding {
-    max-width: 45%;
-    text-align: left;
-}
-
-.event {
-    float: left;
-}
-
-.wedding {
-    float: right;
-}
-
-
-
-
 /************ escape **********************/
 .escape {
     width: 50%;
