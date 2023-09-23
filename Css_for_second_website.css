@@ -70,53 +70,44 @@ p {
 /**************adventureandcuisine************/
 .adventureandcuisine {
     width: 75%;
-    margin: auto;
+    margin: 30px auto 30px;
 }
 
-/***********Adventure***********/
-.adventure {
-    width: 46.5%;
-    border-bottom: solid 1px rgb(241, 236, 236);
-}
-
-.adventure img {
-    width: 100%;
-}
-.adventure h3 {
-    text-align: left;
-}
-.adventure p {
-    font-size: 1em;
-    text-align: left;
-}
-
-.adventure ul {
-    text-align: left;
-}
-
-
-
-/***********Cuisine***********/
+.adventure,
 .cuisine {
     width: 46.5%;
     border-bottom: solid 1px rgb(241, 236, 236);
 }
 
+.adventure img,
 .cuisine img {
     width: 100%;
 }
+.adventure h3,
 .cuisine h3 {
     text-align: left;
 }
+.adventure p,
 .cuisine p {
     font-size: 1em;
     text-align: left;
 }
 
-.adventure ul {
+.adventure ul,
+.cuisine ul {
     text-align: left;
 }
 
+/***********Adventure***********/
+.adventure {
+    float: left;
+}
+
+
+/***********Cuisine***********/
+.cuisine {
+    float: right;
+}
 
 
 
