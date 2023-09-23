@@ -100,6 +100,9 @@ p {
 
 .tropical img {
     width: 100%;
+    box-shadow: 0 2px 20px -12px #222;
+    border-bottom:  solid 5px rgb(95, 93, 209);
+    border-radius: 50px 10px 50px 10px;
 }
 
 /***************************************************/
@@ -124,6 +127,9 @@ p {
 .adventure img,
 .cuisine img {
     width: 100%;
+    box-shadow: 0 2px 20px -12px #222;
+    border-bottom:  solid 5px rgb(95, 93, 209);
+    border-radius: 50px 10px 50px 10px;
 }
 .adventure h3,
 .cuisine h3 {
@@ -178,6 +184,9 @@ p {
 
 .unwind img {
     width: 100%;
+    box-shadow: 0 2px 20px -12px #222;
+    border-bottom:  solid 5px rgb(95, 93, 209);
+    border-radius: 50px 10px 50px 10px;
 }
 
 /***************************************************/
@@ -199,6 +208,9 @@ p {
 .event img,
 .wedding img {
     width: 100%;
+    box-shadow: 0 2px 20px -12px #222;
+    border-bottom:  solid 5px rgb(95, 93, 209);
+    border-radius: 50px 10px 50px 10px;
 }
 .event h3,
 .wedding h3 {
@@ -283,6 +295,9 @@ img {
 
 .escape img {
     width: 100%;
+    box-shadow: 0 2px 20px -12px #222;
+    border-bottom:  solid 5px rgb(95, 93, 209);
+    border-radius: 50px 10px 50px 10px;
 }
 
 /***************************************************/
