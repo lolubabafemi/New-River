@@ -30,7 +30,7 @@ header {
 h1 {
     font-size: 6em;
     font-weight: bold;
-    color: white;
+    color: rgb(99, 97, 219);
 }
 
 h1:hover {
@@ -40,7 +40,7 @@ h1:hover {
 .discover {
     font-size: 1.63em;
     font-weight: bold;
-    color: blue;
+    color: rgb(255, 255, 255);
     text-shadow: 0 1px 0 rgba(0,0,0,.3);
 }
 
@@ -290,33 +290,26 @@ img {
 
 
 
-
-
-/* bottomclass3 */
-#bottomclass3 {
-    width: 85%;
-    margin: auto;
-    margin-bottom: 30px;
-    margin-top: 5%;
+/************ escape **********************/
+.escape {
+    width: 50%;
+    margin: 30px auto 30px;
+    border-bottom: solid 1px rgb(241, 236, 236);
 }
 
-#bottomclass3 li {
-    display: inline-block;
-    width: 45%;
-    margin: auto;
-}
-
-#bottomclass3 li h3 {
-    text-align: left;
+.escape h3 {
     font-size: 1.65em;
-    padding-top: -5%;
 }
 
-#bottomclass3 li p {
-    text-align: left;
+.escape p {
     font-size: 1em;
-    padding-top: 2%;;
 }
+
+.escape img {
+    width: 100%;
+}
+
+/***************************************************/
 
 
 
