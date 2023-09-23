@@ -130,9 +130,7 @@ p {
 
 
 
-.tropical,
 .content4,
-.unwind,
 .content6 {
     width: 75%;
     margin: auto;
@@ -165,8 +163,8 @@ img {
 /************* tropical ****************/
 .tropical {
     width: 50%;
+    margin: 30px auto 30px;
     border-bottom: solid 1px rgb(241, 236, 236);
-    padding-bottom: 3%;
 }
 
 .tropical h3 {
@@ -180,17 +178,6 @@ img {
 .tropical img {
     width: 100%;
 }
-
-
-/* #image2 li {
-    display: inline-block;
-    width: 47%;
-    margin: auto;
-    border-radius: 40px;
-} */
-
-
-
 
 
 
