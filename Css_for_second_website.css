@@ -71,12 +71,12 @@ p {
 .adventureandcuisine {
     width: 75%;
     margin: 30px auto 30px;
+    border-bottom: solid 1px rgb(241, 236, 236);
 }
 
 .adventure,
 .cuisine {
     width: 46.5%;
-    border-bottom: solid 1px rgb(241, 236, 236);
 }
 
 .adventure img,
