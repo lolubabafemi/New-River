@@ -109,7 +109,13 @@ p {
     float: right;
 }
 
+.group {
+    content: "";
+    display: table;
+    clear: both;
+}
 
+/************************************************/
 
 
 
