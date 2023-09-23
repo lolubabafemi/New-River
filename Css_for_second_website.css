@@ -207,14 +207,14 @@ p {
 
 
 
-/***********Adventure***********/
-.adventure {
+/***********event***********/
+.event {
     float: left;
 }
 
 
-/***********Cuisine***********/
-.cuisine {
+/*********** wedding ***********/
+.wedding {
     float: right;
 }
 
@@ -225,13 +225,6 @@ p {
 }
 
 /************************************************/
-
-
-.welcome {
-    width: 75%;
-    margin: auto;
-}
-
 
 
 
@@ -250,9 +243,7 @@ img {
 }
 
 #align li {
-    /* width: 200px;
-    height: 200px; */
-    display: inline-block;
+     display: inline-block;
     width: 47%;
     margin: auto;
 }
