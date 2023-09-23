@@ -54,7 +54,10 @@ p {
     color: #4643c9;
 }
 
-
+.content1 {
+    width: 75%;
+    margin-top: 30px;
+}
 .content1 p {
     font-size: 1.25em;
 }
