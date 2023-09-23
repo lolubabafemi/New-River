@@ -56,23 +56,24 @@ p {
 
 .content1 {
     width: 75%;
-    margin-top: 30px;
+    margin: 30px auto 0px;
 }
 .content1 p {
     font-size: 1.25em;
-}
-.welcome {
-    width: 75%;
-    margin: auto;
-}
-
-.content1 {
-    width: 75%;
 }
 
 .content1 img {
     width: 100%;
 }
+
+
+
+.welcome {
+    width: 75%;
+    margin: auto;
+}
+
+
 .content2,
 .content3,
 .content4,
