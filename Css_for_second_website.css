@@ -67,7 +67,7 @@ p {
 }
 
 
-
+/**************adventureandcuisine************/
 .adventureandcuisine {
     width: 75%;
     margin: auto;
@@ -77,6 +77,10 @@ p {
 .content3 {
     width: 46.5%;
     border-bottom: solid 1px rgb(241, 236, 236);
+}
+
+.content3 h3 {
+    text-align: left;
 }
 .content3 p {
     font-size: 1em;
