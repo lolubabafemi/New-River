@@ -73,23 +73,55 @@ p {
     margin: auto;
 }
 
-/***********content 3***********/
-.content3 {
+/***********Adventure***********/
+.adventure {
     width: 46.5%;
     border-bottom: solid 1px rgb(241, 236, 236);
 }
 
-.content3 h3 {
+.adventure img {
+    width: 100%;
+}
+.adventure h3 {
     text-align: left;
 }
-.content3 p {
+.adventure p {
     font-size: 1em;
     text-align: left;
 }
 
-.content3 ul {
+.adventure ul {
     text-align: left;
 }
+
+
+
+/***********Cuisine***********/
+.cuisine {
+    width: 46.5%;
+    border-bottom: solid 1px rgb(241, 236, 236);
+}
+
+.cuisine img {
+    width: 100%;
+}
+.cuisine h3 {
+    text-align: left;
+}
+.cuisine p {
+    font-size: 1em;
+    text-align: left;
+}
+
+.adventure ul {
+    text-align: left;
+}
+
+
+
+
+
+
 
 .welcome {
     width: 75%;
@@ -178,24 +210,6 @@ img {
 
 
 
-/* content 4 */
-.content4 {
-    border-bottom: solid 1px rgb(241, 236, 236);
-}
-
-.content4 h3 {
-    font-size: 1.65em;
-}
-
-.content4 p {
-    font-size: 1em;
-}
-
-#image4 li {
-    display: inline-block;
-    width: 47%;
-    margin: auto;
-}
 
 
 
