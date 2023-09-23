@@ -14,9 +14,8 @@ header {
     width: 100%;
     height: 850px;
     box-sizing: border-box;
-    background-image:  linear-gradient(rgb(31, 31, 66) transparent 90% ),
-                    url("images/Header\ Image\ 2.jpg");
-}                 
+    background-image:  linear-gradient(rgb(31, 31, 66)  transparent 90% ),
+                    url("images/Header\ Image\ 2.jpg");             
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
