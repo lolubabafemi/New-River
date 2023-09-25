@@ -43,9 +43,6 @@ h2 {
     font-weight: bold;
     color: rgb(63, 44, 230);
     text-shadow: 0 1px 0 rgba(0,0,0,.3);
-    border-bottom: 2px solid;
-    background-color: #1e1d61;
-
 }
 
 h3 {
@@ -58,7 +55,10 @@ p {
     color: #292727;
 }
 
-
+.discover {
+    border-bottom: 2px solid;
+    background-color: #1e1d61;
+}
 
 
 
