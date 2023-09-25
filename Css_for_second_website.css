@@ -8,12 +8,6 @@ body {
     background-color: white;
 }
 
-.intro {
-    font-size: 1.63em;
-    font-weight: bold;
-    color: white;
-    margin-bottom: -100px;
-}
 
 h1 {
     font-size: 6em;
@@ -353,4 +347,15 @@ a:active {
 a:focus {
     color: white;
     background-color: orange;
+}
+
+
+
+
+/* Media Queries ************************/
+
+@media (max-width: 960px) {
+    body {
+        background-color: #1e1d61;
+    } 
 }
