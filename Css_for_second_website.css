@@ -9,7 +9,7 @@ body {
 }
 
 header {
-    /* padding: 5%; */
+    padding-top: 5%;
     background: linear-gradient(to top, #fff, transparent 60%),
         #96ceb4 url("images/Header\ Image\ 2.jpg") no-repeat center;
     /* width: 100%; */
