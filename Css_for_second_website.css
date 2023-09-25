@@ -362,3 +362,12 @@ a:focus {
         color: white;
     }
 }
+
+@media (max-width: 480px) {
+    body {
+        background-color: darkred;
+    }
+    P {
+        color: white;
+    }
+}
