@@ -354,7 +354,14 @@ a:focus {
 
 /* Media Queries ************************/
 
-@media (max-width: 960px) {
+@media (max-width: 1024px) {
+    .tropical,
+    .unwind {
+        width: 90%;
+    }
+}
+
+/* @media (max-width: 960px) {
     body {
         background-color: royalblue;
     }
@@ -370,4 +377,4 @@ a:focus {
     P {
         color: white;
     }
-}
+} */
