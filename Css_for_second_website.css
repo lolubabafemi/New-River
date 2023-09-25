@@ -12,7 +12,7 @@ header {
     /* padding: 5%; */
     background: linear-gradient(to top, #fff, transparent 60%),
         #96ceb4 url("images/Header\ Image\ 2.jpg") no-repeat center;
-    width: 100%;
+    /* width: 100%; */
     height: 850px;
     box-sizing: border-box;
     background-size: cover;
