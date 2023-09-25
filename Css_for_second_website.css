@@ -42,7 +42,9 @@ h2 {
     font-weight: bold;
     color: rgb(63, 44, 230);
     text-shadow: 0 1px 0 rgba(0,0,0,.3);
-    margin-top: -10px;
+    margin: 10px 0 0;
+    border-bottom: 2px solid;
+
 }
 
 h3 {
