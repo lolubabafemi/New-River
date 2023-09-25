@@ -8,17 +8,6 @@ body {
     background-color: white;
 }
 
-header {
-    padding-top: 5%;
-    background: linear-gradient(to top, #fff, transparent 60%),
-        #96ceb4 url("images/Header\ Image\ 2.jpg") no-repeat center;
-    /* width: 100%; */
-    height: 850px;
-    /* box-sizing: border-box; */
-    background-size: cover;
-    /* box-shadow: inset 0 0 50px 10px #222; */
-}
-
 .intro {
     font-size: 1.63em;
     font-weight: bold;
@@ -61,6 +50,23 @@ p {
     width: 50%;
     text-align: center;
 }
+
+
+
+
+
+header {
+    padding-top: 5%;
+    background: linear-gradient(to top, #fff, transparent 60%),
+        #96ceb4 url("images/Header\ Image\ 2.jpg") no-repeat center;
+    /* width: 100%; */
+    height: 850px;
+    /* box-sizing: border-box; */
+    background-size: cover;
+    /* box-shadow: inset 0 0 50px 10px #222; */
+}
+
+
 
 
 
