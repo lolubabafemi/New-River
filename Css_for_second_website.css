@@ -9,7 +9,7 @@ body {
 }
 
 header {
-    padding: 5%;
+    /* padding: 5%; */
     background: linear-gradient(to top, #fff, transparent 60%),
         #96ceb4 url("images/Header\ Image\ 2.jpg") no-repeat center;
     width: 100%;
@@ -43,7 +43,6 @@ h2 {
     font-weight: bold;
     color: rgb(63, 44, 230);
     text-shadow: 0 1px 0 rgba(0,0,0,.3);
-    margin: 10px 0 0;
     border-bottom: 2px solid;
     background-color: #1e1d61;
 
