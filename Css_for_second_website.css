@@ -356,6 +356,10 @@ a:focus {
 
 @media (max-width: 960px) {
     body {
-        background-color: #1e1d61;
+        background-color: royalblue
     } 
+    
+    P {
+        color: white;
+    }
 }
