@@ -363,7 +363,7 @@ a:focus {
     }
 }
 
-@media (max-width: 490px) {
+@media (max-width: 480px) {
     body {
         background-color: darkred;
     }
