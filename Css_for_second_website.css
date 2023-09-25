@@ -354,7 +354,7 @@ a:focus {
 
 /* Media Queries ************************/
 
-@media screen and (max-width: 960px) {
+@media screen and (min-width: 480px) {
     body {
         background-color: royalblue;
     }
