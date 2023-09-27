@@ -377,11 +377,12 @@ a:focus {
 
     .header {
         max-height: 380px;
-        padding: 2%;
+        padding-top: 30%;
     }
 
     h1 {
         font-size: 3em;
+        margin: 0;
     }
 
     h2 {
