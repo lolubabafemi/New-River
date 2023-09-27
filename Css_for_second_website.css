@@ -256,7 +256,7 @@ p {
 
 
 
-#image {
+.image2 {
     border-top: solid 1px rgb(241, 236, 236);
     border-bottom: solid 1px rgb(241, 236, 236);
     width: 75%;
@@ -268,8 +268,8 @@ img {
     max-width: 100%;
 }
 
-#align li {
-     display: inline-block;
+.image2 ul li {
+    display: inline-block;
     width: 47%;
     margin: auto;
 }
@@ -363,6 +363,7 @@ a:focus {
 
 @media (max-width: 768px) {
     .welcome,
+    .image2,
     .tropical,
     .unwind,
     .adventureandcuisine,
