@@ -374,6 +374,20 @@ a:focus {
     .image2 {
         display: none;
     }
+
+    .header {
+        max-height: 380px;
+        padding: 2%;
+    }
+
+    .h1 {
+        font-size: 3em;
+    }
+
+    .h2 {
+        font-size: 0.75em;
+        text-decoration: none;
+    }
 }
 /* @media (max-width: 960px) {
     body {
