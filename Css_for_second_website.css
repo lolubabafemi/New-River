@@ -363,7 +363,8 @@ a:focus {
 
 @media (max-width: 768px) {
     .tropical,
-    .unwind {
+    .unwind,
+    .adventureandcuisine {
         width: 100%;
     }
 }
