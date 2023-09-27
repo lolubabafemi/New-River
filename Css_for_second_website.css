@@ -359,6 +359,11 @@ a:focus {
     .unwind {
         width: 90%;
     }
+    .event,
+    .wedding {
+        float: none;
+        width: 100%;
+    }
 }
 
 @media (max-width: 768px) {
