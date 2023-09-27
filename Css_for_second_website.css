@@ -360,7 +360,9 @@ a:focus {
         width: 90%;
     }
     .event,
-    .wedding {
+    .wedding,
+    .adventure,
+    .cuisine {
         float: none;
         width: 100%;
     }
