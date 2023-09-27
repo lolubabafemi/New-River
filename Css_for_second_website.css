@@ -376,7 +376,7 @@ a:focus {
     }
 
     .header {
-        max-height: 380px;
+        max-height: 250px;
         padding-top: 30%;
     }
 
@@ -386,7 +386,7 @@ a:focus {
     }
 
     h2 {
-        font-size: 0.75em;
+        font-size: 1em;
         text-decoration: none;
     }
 }
