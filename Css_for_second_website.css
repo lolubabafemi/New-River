@@ -377,7 +377,7 @@ a:focus {
 
     .header {
         max-height: 250px;
-        padding-top: 30%;
+        padding: 30% auto;
     }
 
     h1 {
