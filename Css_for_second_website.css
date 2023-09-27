@@ -390,7 +390,7 @@ a:focus {
         text-decoration: none;
     }
 
-    .welcome {
+    .welcome p {
         font-size: 1rem;
     }
 }
