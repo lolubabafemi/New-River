@@ -380,11 +380,11 @@ a:focus {
         padding: 2%;
     }
 
-    .h1 {
+    h1 {
         font-size: 3em;
     }
 
-    .h2 {
+    h2 {
         font-size: 0.75em;
         text-decoration: none;
     }
