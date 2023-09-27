@@ -364,7 +364,9 @@ a:focus {
 @media (max-width: 768px) {
     .tropical,
     .unwind,
-    .adventureandcuisine {
+    .adventureandcuisine,
+    .eventandwedding,
+    .escape {
         width: 100%;
     }
 }
