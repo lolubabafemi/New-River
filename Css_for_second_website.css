@@ -363,13 +363,16 @@ a:focus {
 
 @media (max-width: 768px) {
     .welcome,
-    .image2,
     .tropical,
     .unwind,
     .adventureandcuisine,
     .eventandwedding,
     .escape {
         width: 100%;
+    }
+
+    .image2 {
+        display: none;
     }
 }
 /* @media (max-width: 960px) {
