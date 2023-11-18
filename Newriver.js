@@ -1,2 +1,2 @@
-alert(testing javascript)
+alert(message)
 var message = "hello world"
