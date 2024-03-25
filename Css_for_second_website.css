@@ -291,7 +291,7 @@ img {
 .escape {
     width: 50%;
     margin: 30px auto 30px;
-    border-bottom: solid 1px rgb(241, 236, 236);
+   /* border-bottom: solid 1px rgb(241, 236, 236);*/
 }
 
 .escape h3 {
@@ -320,12 +320,13 @@ img {
     border-left: solid 0.5px rgb(241, 236, 236);
 }
 #main-footer {
-    color: white;
+    color: #1e1d61;
     padding-top: 60px;
     padding-bottom: 60px;
-    border-top: solid 10px #1e1d61;
-    border-bottom: solid 10px #1e1d61;
-    background-color:#4643c9;
+    /*border-top: solid 10px #1e1d61;
+    border-bottom: solid 10px #1e1d61;*/
+    background-color:#dfdee4;
+    border-top: solid 1px rgb(241, 236, 236);
 }
 
 a:link {
