@@ -3,5 +3,5 @@
 // alert(message);
 
 var visitor = prompt('what is your name?')
-var greeting = 'hello' + visitor;
+var greeting = 'hello ' + visitor;
 alert(greeting);
