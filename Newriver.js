@@ -1,3 +1,3 @@
 
-var message = "A website by Babafemi Omololu";
+var message = "A 1 page website by Babafemi Omololu";
 alert(message);
